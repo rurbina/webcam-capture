@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webcam-capture", "src\webcam-capture\webcam-capture.csproj", "{B41F85A1-E778-4EAF-801B-81E51F56F3C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win32-sharp", "lib\win32-sharp\win32-sharp.csproj", "{87C826C9-FE4E-4EF9-827F-E1872549BF6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Mono|Any CPU = Debug Mono|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release Mono|Any CPU = Release Mono|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Debug Mono|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Debug Mono|Any CPU.Build.0 = Debug|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Release Mono|Any CPU.ActiveCfg = Release|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Release Mono|Any CPU.Build.0 = Release|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41F85A1-E778-4EAF-801B-81E51F56F3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Debug Mono|Any CPU.ActiveCfg = Debug Mono|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Debug Mono|Any CPU.Build.0 = Debug Mono|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Release Mono|Any CPU.ActiveCfg = Release Mono|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Release Mono|Any CPU.Build.0 = Release Mono|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C826C9-FE4E-4EF9-827F-E1872549BF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
