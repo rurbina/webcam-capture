@@ -1,0 +1,3 @@
+WebCamCapture is a simple C# library for capturing still images from a Webcam.  It works using the Video for Windows API and as such should work with virtually all webcams.  It allows for both showing a video preview and simply taking pictures.  In addition, it contains a simple "camera" form so taking a picture is as simple as the click of a button and 2 lines of code.
+
+Right now only still image support is included, but in the future, video support may be included as well.  Feel free to participate and help this happen.
